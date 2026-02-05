@@ -2,4 +2,4 @@
 
 ## Projet collaboratif
 
-* à faire : ajouter un fichier ".gitignore"
+* à faire : ajouter un fichier `.gitignore`
